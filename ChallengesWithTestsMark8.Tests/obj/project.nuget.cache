@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "juxR0mL5pagx+HnVjFrbpluSHcbktQQw10Hr7hLgNPEod4IpcsZWUPG0awGE5z4TaCt0I6rE4VwavCEltSTAuw==",
+  "dgSpecHash": "1Lz3vKBETuYDnEARmCeHBrU3ChlTUJMAYedYEJJAvEmQNvX77JTLNIGAxA2bJn33ygcDCBuzA7P8XzLEqO79EA==",
   "success": true,
   "projectFilePath": "C:\\Users\\phoen\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\phoen\\.nuget\\packages\\fare\\2.1.2\\fare.2.1.2.nupkg.sha512",
     "C:\\Users\\phoen\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\phoen\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\phoen\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.0.3\\microsoft.dotnet.platformabstractions.1.0.3.nupkg.sha512",

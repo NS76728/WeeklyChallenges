@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m7hNC0Umto2Pgd0fvdBlDu9Dl5MZpI7+tm8wr1KYV/PYBAExpLMSwU1BXv7Pz8nv1pYPt+flz5Qhtx9omDB8xw==",
+  "dgSpecHash": "+v1v3kHL/THJgjGHwX+GSPLz+8YUPZPoyFXS9LbEN7iupkRYY9xCq15m0kb9Jd67GYjcq3h2H8ke1dTzqffvDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\phoen\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\phoen\\.nuget\\packages\\fare\\2.1.2\\fare.2.1.2.nupkg.sha512",
     "C:\\Users\\phoen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\phoen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
     "C:\\Users\\phoen\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
